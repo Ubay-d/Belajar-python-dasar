@@ -1,0 +1,12 @@
+print("Belajar Python Dasar")
+print("Pengenalan Python")
+print()
+print("=========== Kutip 1 ===================")
+print('Nama Saya "Ubaydillah", sedang belajar python')
+print('Nama Saya \'Ubaydillah\', sedang belajar python')
+print()
+print("=========== Kutip 2 ===================")
+print("Nama Saya 'Ubaydillah', sedang belajar python")
+print("Nama Saya \"Ubaydillah\", sedang belajar python")
+
+print("tinggi saya:", 170, "Berat saya:", 52)
